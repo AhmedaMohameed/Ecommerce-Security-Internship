@@ -1,12 +1,16 @@
 # cybersec-phase1
-Phase 1 of my cybersecurity internship project.   Includes OpenCart installation, MySQL setup, LDAP configuration, and UFW firewall hardening.  
-# Phase 1 – Infrastructure Setup
 
-Includes:
-- OpenCart E-commerce Setup
-- MySQL Integration
-- OpenLDAP Authentication
-- phpLDAPadmin Interface
-- UFW Firewall Configuration
+**Phase 1** of my Cybersecurity Internship Project — focused on secure infrastructure deployment and configuration.
 
-See individual `.md` files and `screenshots/` folder.
+### 🔧 Infrastructure Components
+
+This phase includes the full setup and hardening of the following components:
+
+- **OpenCart** – Installation and configuration of a functional e-commerce platform.
+- **MySQL** – Database integration and secure configuration for OpenCart.
+- **OpenLDAP** – Centralized authentication setup using OpenLDAP.
+- **phpLDAPadmin** – Web-based interface for managing LDAP entries.
+- **UFW (Uncomplicated Firewall)** – Configuration of firewall rules to harden network access.
+
+📂 Refer to the respective `.md` documentation files and the `screenshots/` folder for setup details and configuration proof.
+
